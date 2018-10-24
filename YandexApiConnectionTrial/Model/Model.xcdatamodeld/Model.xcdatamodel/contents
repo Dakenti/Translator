@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17E199" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TupledArray" representedClassName="TupledArray" syncable="YES">
+        <attribute name="enteredText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="enteredTextLanguage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="outputText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="outputTextLanguage" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TupledArray" positionX="-63" positionY="1785" width="128" height="103"/>
+    </elements>
+</model>
